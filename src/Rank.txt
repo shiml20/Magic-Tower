@@ -1,0 +1,50 @@
+
+
+This is the record of this Game!
+Test1
+Test1
+该玩家未通关。
+0
+
+This is the record of this Game!
+Test2
+Test2
+该玩家未通关。
+2
+
+This is the record of this Game!
+Test3
+Test3
+该玩家未通关。
+13
+
+This is the record of this Game!
+Test4
+Test4
+该玩家未通关。
+12
+
+This is the record of this Game!
+Test5
+Test5
+该玩家已通关。
+11
+
+This is the record of this Game!
+nm
+nm
+该玩家未通关。
+14
+
+This is the record of this Game!
+k
+k
+该玩家已通关。
+12
+
+This is the record of this Game!
+dd
+dd
+该玩家未通关。
+0
+
